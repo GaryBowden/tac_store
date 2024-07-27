@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /:https://taraiymcorporation.sharepoint.com/:f:/s/tac_store/EgYYgFmHrB5HowIv0yBUC3sBr65rms-3dIyprQqyMsD43A?e=5Id4s3
 
 folders:
   /products/: /products/default
